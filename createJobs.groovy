@@ -1,4 +1,4 @@
-pipelineJob('theme-park-job') {
+pipelineJob('vinlookup-job') {
     definition {
         cpsScm {
             scm {
