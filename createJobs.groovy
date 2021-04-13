@@ -4,7 +4,7 @@ pipelineJob('vinlookup-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/snow-droplet/vinlookup-service.git'
+                        url 'git@github.com:snow-droplet/vinlookup-service.git'
                     }
                     branch 'master'
                 }
