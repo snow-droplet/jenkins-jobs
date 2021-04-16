@@ -8,7 +8,7 @@
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
         <url>git@github.com:snow-droplet/jenkins-jobs.git</url>
-        <credentialId>swathi</credentialId>
+        <credentialId>snow-droplet</credentialId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
